@@ -1,0 +1,49 @@
+_repo: When-Knighthood-Was-in-Floweror-the-Love-Story-of-Charles-Brandon-and-Mary-Tudor-the-King-s-S__17498
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Major, Charles
+    birthdate: 1856
+    deathdate: 1913
+    gutenberg_agent_id: '4202'
+    url: http://www.gutenberg.org/2009/agents/4202
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Major
+description: "When Knighthood Was in Flower is the debut novel of American author\
+  \ Charles Major written under the pseudonym, Edwin Caskoden. It was first published\
+  \ by The Bobbs-Merrill Company (then the Bowen-Merrill Company) in 1898 and proved\
+  \ an enormous success.\nAccording to the New York Times, in its third year on the\
+  \ market the book was still selling so well that it was #9 on the list of bestselling\
+  \ novels in the United States for 1900.\nThe book spawned an entire industry of\
+  \ historical romantic novels and films.\nIn 1901, playwright Paul Kester wrote the\
+  \ Broadway play and by 1907 When Knighthood Was in Flower was still being printed\
+  \ by the reprint publisher, Grosset & Dunlap, when the film rights were sold to\
+  \ Biograph Studios.\nIt was sometimes known by the title When Knights Were Bold\
+  \ and should not be confused with the 1906 play When Knights Were Bold which also\
+  \ inspired several film adaptations.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17498'
+  wikidata: Q2708153
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Suffolk, Charles Brandon, Duke of, approximately 1484-1545 -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Mary, Queen, consort of Louis XII, King of France, 1496-1533 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Fiction'
+title: 'When Knighthood Was in Flower
+
+  or, the Love Story of Charles Brandon and Mary Tudor the King''s Sister, and Happening
+  in the Reign of His August Majesty King Henry the Eighth'
+url: http://www.gutenberg.org/ebooks/17498
+wikipedia:
+- https://en.wikipedia.org/wiki/When_Knighthood_Was_in_Flower_(novel)
